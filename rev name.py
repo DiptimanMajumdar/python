@@ -1,0 +1,5 @@
+print("enter 1st name")
+x=input()
+print("enter last name")
+y=input()
+print(y,x)
